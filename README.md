@@ -4,10 +4,10 @@ Este projeto é um desafio proposto no programa ONE - Oracle Next Education, uma
 
 ## Descrição do Desafio
 
-O objetivo é implementar uma API REST de um fórum, um espaço onde podemos trocar conhecimentos, criar tópicos para solucionar nossas dúvidas e também ajudar outras pessoas com suas dúvidas. O foco principal será nos tópicos.
+O objetivo é implementar uma API REST de um fórum.
 
-- Implementar rotas seguindo as melhores práticas do modelo REST.
-- Realizar validações segundo as regras de negócio.
+- Implementar rotas seguindo as práticas do modelo REST.
+- Realizar validações das regras de negócio.
 - Implementar uma base de dados relacional para a persistência da informação.
 - Utilizar um serviço de autenticação/autorização para restringir o acesso à informação.
 
@@ -35,7 +35,7 @@ O objetivo é implementar uma API REST de um fórum, um espaço onde podemos tro
 
 ## Instalação
 
-Para executar a aplicação localmente, siga estas etapas:
+Para executar a aplicação localmente:
 
 1. **Clone este repositório:**
     ```bash
